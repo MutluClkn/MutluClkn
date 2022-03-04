@@ -33,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutluclkn&show_icons=true&locale=en" alt="mutluclkn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutluclkn&" alt="mutluclkn" /></p>
-
-/Users/macbook/Desktop/Ekran Resmi 2022-02-26 19.39.52.png
