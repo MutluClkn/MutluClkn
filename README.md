@@ -5,9 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutluclkn" alt="mutluclkn" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/mutluclkn" target="blank"><img src="https://img.shields.io/twitter/follow/mutluclkn?logo=twitter&style=for-the-badge" alt="mutluclkn" /></a> </p>
-
-- 🔭 I’m currently creating **a mobile application on the iOS platform for the company I am working at.**
+- 🔭 I’m currently building **a mobile application on the iOS platform for the company I am working at.**
 
 - 🌱 I’m currently learning **Swift.**
 
